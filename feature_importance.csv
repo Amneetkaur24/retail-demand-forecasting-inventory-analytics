@@ -1,0 +1,35 @@
+Feature,Importance
+num__Stock On Hand,0.3107365244793033
+num__Price Per Unit,0.18021090140782592
+num__Promotion,0.04877136594950107
+cat__Category_Electric Household Essentials,0.02118079795476872
+cat__Category_Furniture,0.020674284446283903
+cat__Category_Butchers,0.020241446611760357
+cat__Category_Beverages,0.01957994434236582
+cat__Category_Patisserie,0.019205937266735324
+cat__Weekday_Tuesday,0.01909935422182303
+cat__Category_Milk Products,0.018935731363278772
+cat__Weekday_Sunday,0.018827310790329257
+cat__Weekday_Thursday,0.018316207068719236
+cat__Weekday_Wednesday,0.01815858405195019
+cat__Category_Food,0.017868018641445178
+cat__Weekday_Monday,0.017637005708614425
+cat__Weekday_Saturday,0.016713975159776018
+cat__Weekday_Friday,0.016514073310158445
+cat__Category_Computers And Electric Accessories,0.016359226254371428
+cat__Month_September,0.012654647216372605
+cat__Month_April,0.012442013118581471
+cat__Month_June,0.01202046101868664
+cat__Month_May,0.011886834242135593
+cat__Month_August,0.011698505180466248
+cat__Month_October,0.011647159636732057
+cat__Month_July,0.011638286532091986
+cat__Month_January,0.01134992908304709
+cat__Month_November,0.01127703325645796
+cat__Season_Summer,0.011247202424891772
+cat__Month_December,0.011109838441254112
+cat__Season_Spring,0.011106665507440883
+cat__Month_February,0.010696803481017677
+cat__Month_March,0.010303760971078
+cat__Season_Fall,0.01003654495754078
+cat__Season_Winter,0.00985362590319483
