@@ -1,7 +1,13 @@
 Retail Demand Forecasting & Inventory Optimization Dashboard
+
+
+
 **Business Problem**
 Retail businesses frequently lose revenue due to stockouts and overstocking.
 This project uses historical sales data to forecast demand, assess promotion impact, and generate data-driven inventory recommendations.
+
+
+
 **Solution**
 This project builds an end-to-end analytics solution that:
 • Analyzes demand patterns and seasonality
@@ -10,20 +16,33 @@ This project builds an end-to-end analytics solution that:
 • Calculates safety stock and reorder points
 • Simulates stockout vs holding cost scenarios
 • Presents insights via an interactive Streamlit dashboard
+
+
+
 **Live Demo**
 Live Dashboard:
 https://retail-demand-inventory-dashboard-gjn7qnutxhgeqn6kvpsl2f.streamlit.app/
+
+
+
 **Tech Stack**
 Python, Pandas, NumPy  
 Matplotlib, Seaborn  
 Scikit-learn  
 Streamlit  
 GitHub
+
+
+
+
 **Key Business Insights**
 • Stock availability is the strongest driver of realized sales
 • Promotions increase demand only when inventory is sufficient
 • Holding moderate safety stock is cheaper than stockout losses
 • Inventory risk depends on variability, not just sales volume
+
+
+
 **Project Structure**
 ├── data/
 │   ├── cleaned_BrightMart_retail_dataset.csv
@@ -37,6 +56,9 @@ GitHub
 ├── app.py
 ├── requirements.txt
 ├── README.md
+
+
+
 **Future Improvements**
 • SHAP-based explainability
 • Product-level forecasting
