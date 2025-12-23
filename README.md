@@ -21,7 +21,7 @@ This project builds an end-to-end analytics solution that:
 
 **Live Demo**
 Live Dashboard:
-https://retail-demand-inventory-dashboard-gjn7qnutxhgeqn6kvpsl2f.streamlit.app/
+https://retail-demand-inventory-dashboard-cqktcqkohdrytlemhh6d8y.streamlit.app/
 
 
 
