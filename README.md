@@ -22,6 +22,7 @@ This project builds an end-to-end analytics solution that:
 **Live Demo**
 Live Dashboard:
 https://retail-demand-inventory-dashboard-cqktcqkohdrytlemhh6d8y.streamlit.app/
+<img width="859" height="600" alt="image" src="https://github.com/user-attachments/assets/418b9633-9082-41b7-9192-3fd1e944ca50" />
 
 
 
