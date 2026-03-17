@@ -204,7 +204,7 @@ These assumptions approximate typical retail inventory operations.
 │
 ├── presentation
 │   ├── retail demand forcasting.pdf
-│
+├──Insights.md
 ├── README.md
 ├── requirements.txt
 
