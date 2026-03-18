@@ -202,6 +202,7 @@ These assumptions approximate typical retail inventory operations.
 
 │   ├── inventory_policy.csv
 │
+
 ├── notebooks
 
 │   ├── Advanced_Analysis,_Forecasting_&_Business_Modeling_Brights_Mart.ipynb
@@ -212,9 +213,10 @@ These assumptions approximate typical retail inventory operations.
 
 │   ├── Inventory_Optimization_&_Scenario_Simulation.ipynb
 │
+
 ├── presentation
 
-│   ├── retail demand forcasting.pdf
+│ ├── retail demand forcasting.pdf
 
 ├──Insights.md
 
