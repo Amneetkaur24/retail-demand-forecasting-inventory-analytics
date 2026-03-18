@@ -189,24 +189,37 @@ These assumptions approximate typical retail inventory operations.
 
 ## Structure
 ├── app
+
 │   ├── app_Brights_Mart (1).ipynb
+
 │   ├── app_brights_mart(1).py
 │
 ├── data
+
 │   ├── cleaned_BrightMart_retail_dataset.csv
+
 │   ├── feature_importance.csv
+
 │   ├── inventory_policy.csv
 │
 ├── notebooks
+
 │   ├── Advanced_Analysis,_Forecasting_&_Business_Modeling_Brights_Mart.ipynb
+
 │   ├── BrightMart_Data_Cleaning.ipynb
+
 │   ├── Feature_engineering_&_EDA_BrightsMart_.ipynb
+
 │   ├── Inventory_Optimization_&_Scenario_Simulation.ipynb
 │
 ├── presentation
+
 │   ├── retail demand forcasting.pdf
+
 ├──Insights.md
+
 ├── README.md
+
 ├── requirements.txt
 
 👤 Author
