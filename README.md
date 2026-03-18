@@ -2,6 +2,8 @@
 
 Demand Forecasting | Inventory Policy Design | Promotion Impact Analysis
 
+<img width="619" height="462" alt="image" src="https://github.com/user-attachments/assets/2833130f-bb73-407c-a25b-30353fec434b" />
+
 📌 Project Overview
 
 Retail businesses frequently lose revenue due to stockouts, overstocking, and poorly timed promotions. Without reliable demand forecasting, inventory decisions become reactive and inefficient.
@@ -32,10 +34,6 @@ The project delivers a complete analytics pipeline that:
 • Calculates safety stock and reorder points
 • Simulates stockout vs holding cost tradeoffs
 • Presents insights via an interactive dashboard
-
-📊 Dashboard Preview
-
-<img width="619" height="462" alt="image" src="https://github.com/user-attachments/assets/2833130f-bb73-407c-a25b-30353fec434b" />
 
 🔗 Live Dashboard:
 https://retail-demand-inventory-dashboard-cqktcqkohdrytlemhh6d8y.streamlit.app/
