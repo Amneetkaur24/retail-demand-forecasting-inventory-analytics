@@ -193,8 +193,8 @@ These assumptions approximate typical retail inventory operations.
 │   ├── app_Brights_Mart (1).ipynb
 
 │   ├── app_brights_mart(1).py
-│
-├── data
+
+│├── data
 
 │   ├── cleaned_BrightMart_retail_dataset.csv
 
