@@ -34,7 +34,7 @@ The project delivers a complete analytics pipeline that:
 • Presents insights via an interactive dashboard
 
 📊 Dashboard Preview
-<img width="859" height="600" alt="image" src="https://github.com/user-attachments/assets/418b9633-9082-41b7-9192-3fd1e944ca50" />
+<img width="619" height="462" alt="image" src="https://github.com/user-attachments/assets/2833130f-bb73-407c-a25b-30353fec434b" />
 
 🔗 Live Dashboard:
 https://retail-demand-inventory-dashboard-cqktcqkohdrytlemhh6d8y.streamlit.app/
