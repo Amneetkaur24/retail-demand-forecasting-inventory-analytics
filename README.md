@@ -34,6 +34,7 @@ The project delivers a complete analytics pipeline that:
 • Presents insights via an interactive dashboard
 
 📊 Dashboard Preview
+
 <img width="619" height="462" alt="image" src="https://github.com/user-attachments/assets/2833130f-bb73-407c-a25b-30353fec434b" />
 
 🔗 Live Dashboard:
