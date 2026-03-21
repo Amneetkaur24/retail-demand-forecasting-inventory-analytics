@@ -4,6 +4,12 @@ Demand Forecasting | Inventory Policy Design | Promotion Impact Analysis
 
 <img width="619" height="462" alt="image" src="https://github.com/user-attachments/assets/2833130f-bb73-407c-a25b-30353fec434b" />
 
+---
+
+Live App: https://retail-demand-inventory-dashboard-cqktcqkohdrytlemhh6d8y.streamlit.app/
+
+---
+
 📌 Project Overview
 
 Retail businesses frequently lose revenue due to stockouts, overstocking, and poorly timed promotions. Without reliable demand forecasting, inventory decisions become reactive and inefficient.
